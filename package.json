@@ -1,0 +1,20 @@
+{
+  "name": "crud_ing_soft",
+  "version": "1.0.0",
+  "description": "Este es un CRUD para la materia Taller de ingeniería del software",
+  "main": "index.js",
+  "start": "cd src && node index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Martínez",
+  "license": "ISC"
+}
